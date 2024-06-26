@@ -1,0 +1,150 @@
+<mxfile host="app.diagrams.net" modified="2024-06-26T00:21:12.270Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" etag="Nj9Koqb78HNbKITaAmi_" version="24.6.3" type="github" pages="2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1805" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="LY-UMs4pmovkEyt8K472-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LY-UMs4pmovkEyt8K472-6" target="LY-UMs4pmovkEyt8K472-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="393" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LY-UMs4pmovkEyt8K472-6" value="&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;Great, can you upload your resume or CV that you are submitting with the cover letter?&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="266" y="280" width="255" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LY-UMs4pmovkEyt8K472-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LY-UMs4pmovkEyt8K472-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LY-UMs4pmovkEyt8K472-10" value="&lt;span style=&quot;text-align: start; font-size: medium;&quot;&gt;Uploads resume.&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="283" y="530" width="220.5" height="80.89" as="geometry" />
+        </mxCell>
+        <mxCell id="LY-UMs4pmovkEyt8K472-15" value="&lt;span style=&quot;text-align: start; font-size: medium;&quot;&gt;Got it! Is there anything specific you would like to highlight in your cover letter, such as goals, particular skills or achievements? If there&#39;s nothing specific, just type &#39;No&#39;.&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="238.25" y="700" width="310" height="170.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LY-UMs4pmovkEyt8K472-25" value="&lt;span style=&quot;text-align: start; font-size: medium;&quot;&gt;No&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="950" width="220.5" height="80.89" as="geometry" />
+        </mxCell>
+        <mxCell id="LY-UMs4pmovkEyt8K472-26" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Provides highlights.&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="950" width="220.5" height="80.89" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X4EUn3styAGMlq-PEjfR-4" target="X4EUn3styAGMlq-PEjfR-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="393.28" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-4" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Hello! I&#39;m here to help you craft a professional cover letter. To get started, can you paste the job description here?&lt;/font&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="266.28" y="-140" width="255" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X4EUn3styAGMlq-PEjfR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393.28" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-6" value="&lt;span style=&quot;text-align: start; font-size: medium;&quot;&gt;Pastes the job description.&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="283.28" y="110" width="220.5" height="80.89" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.594;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LY-UMs4pmovkEyt8K472-26" target="LY-UMs4pmovkEyt8K472-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="349.87" y="743.38" width="86.75" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350.40000000000003" y="910" width="86.75" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-18" value="&lt;span style=&quot;text-align: start; font-size: medium;&quot;&gt;Understood. I have all the information I need. Please give me a moment to draft your cover letter.&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265.74" y="1120" width="255" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-19" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Your draft cover letter is ready. Would you like to read it now or save it as a file?&lt;/font&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="266.28000000000003" y="1379" width="255" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393.56" y="1379" as="targetPoint" />
+            <mxPoint x="394.28000000000003" y="1290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350.41" y="1424" width="86.75" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-33" value="Read&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140.25" y="1630" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-34" value="Download" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470.25" y="1810" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-35" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229.54" y="1809" as="targetPoint" />
+            <mxPoint x="230.26000000000002" y="1720" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-36" value="Text Editor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140.25" y="1810" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-39" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229.54" y="1989" as="targetPoint" />
+            <mxPoint x="230.26000000000002" y="1900" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-40" value="Save" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140.25" y="1990" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-41" value="&lt;span style=&quot;text-align: start; font-size: medium;&quot;&gt;Specific changes&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="1814.56" width="220.5" height="80.89" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-42" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="X4EUn3styAGMlq-PEjfR-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1855" as="sourcePoint" />
+            <mxPoint x="70.5" y="1854.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-51" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="348.99" y="1957.16" width="91.01" height="331.42" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-54" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="555.25" y="1900" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-56" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="553.25" y="1630" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-57" value="&lt;span style=&quot;text-align: start; font-size: medium;&quot;&gt;Please share your thoughts or rate your experience from 1 to 5 stars.&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="267.00000000000006" y="2168" width="255" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-58" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393.78999999999996" y="2419" as="targetPoint" />
+            <mxPoint x="394.51" y="2330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-59" value="Rating" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304.5" y="2420" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-60" value="&lt;span style=&quot;text-align: start; font-size: medium;&quot;&gt;Thank you for using our service. Good luck with your job application! Feel free to return anytime you need more help.&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="267" y="2599" width="255" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="X4EUn3styAGMlq-PEjfR-61" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="394.28" y="2599" as="targetPoint" />
+            <mxPoint x="395" y="2510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="G1SAMiLksS44onQkmqK_" name="Page-2">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
