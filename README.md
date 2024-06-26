@@ -11,62 +11,75 @@ This is a chatbot that helps you write a cover letter. It is built using the Ras
 **Problems:** Writing a cover letter can be time-consuming and challenging. Simply using generative models like GPT-3 may not be enough as it may not be tailored to the job description.
 
 ## Dialogue Flow
+<table>
+  <tr><td>-----------------------</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>|  Welcome to Cover   |</td></tr>
+  <tr><td>|  Letter Generator   |</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>|    [Start]          |</td></tr>
+  <tr><td>-----------------------</td></tr>
 
-| |
-| Welcome to Cover |
-| Letter Generator |
-| |
-| [Start] |
+  <tr><td>-----------------------</td></tr>
+  <tr><td>| What's your name?   |</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>|  [Enter your name]  |</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>|    [Next]           |</td></tr>
+  <tr><td>-----------------------</td></tr>
 
-| What's your name? |
-| |
-| [Enter your name] |
-| |
-| [Next] |
+  <tr><td>-----------------------</td></tr>
+  <tr><td>|        Paste the    |</td></tr>
+  <tr><td>|     job description |</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>|       [Paste        |</td></tr>
+  <tr><td>|   job description]  |</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>|    [Next]           |</td></tr>
+  <tr><td>-----------------------</td></tr>
 
-| What's the job title?|
-| |
-| [Enter job title] |
-| |
-| What's the company |
-| name? |
-| |
-| [Enter company |
-| name] |
-| |
-| [Next] |
+  <tr><td>-----------------------</td></tr>
+  <tr><td>| Upload your resume  |</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>|  [Upload resume]    |</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>|    [Next]           |</td></tr>
+  <tr><td>-----------------------</td></tr>
 
-| Upload your resume |
-| |
-| [Upload resume] |
-| |
-| [Next] |
+  <tr><td>-----------------------</td></tr>
+  <tr><td>| Review your details:|</td></tr>
+  <tr><td>| Name: XYZ [Edit]    |</td></tr>
+  <tr><td>| Job Title: ABC [Edit]|</td></tr>
+  <tr><td>| Company: DEF [Edit] |</td></tr>
+  <tr><td>| Experience: ... [Edit]|</td></tr>
+  <tr><td>| Skills: ... [Edit]  |</td></tr>
+  <tr><td>| Achievements: ...   |</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>|    [Confirm]        |</td></tr>
+  <tr><td>-----------------------</td></tr>
 
-| Review your details:|
-| Name: XYZ [Edit] |
-| Job Title: ABC [Edit]|
-| Company: DEF [Edit] |
-| Experience: ... [Edit]|
-| Skills: ... [Edit] |
-| Achievements: ... |
-| |
-| [Confirm] |
+  <tr><td>-----------------------</td></tr>
+  <tr><td>| Generating your     |</td></tr>
+  <tr><td>| cover letter...     |</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>| [Loading animation] |</td></tr>
+  <tr><td>-----------------------</td></tr>
 
-| Generating your |
-| cover letter... |
-| |
-| [Loading animation] |
+  <tr><td>-----------------------</td></tr>
+  <tr><td>| Your Cover Letter:  |</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>| [Cover Letter Text] |</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>| [Edit] [Download]   |</td></tr>
+  <tr><td>| [Send via Email]    |</td></tr>
+  <tr><td>-----------------------</td></tr>
 
-| Your Cover Letter: |
-| |
-| [Cover Letter Text] |
-| |
-| [Edit] [Download] |
-| [Send via Email] |
-
-| How did we do? |
-| |
-| [Enter feedback] |
-| |
-| [Submit] |
+  <tr><td>-----------------------</td></tr>
+  <tr><td>| How did we do?      |</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>| [Enter feedback]    |</td></tr>
+  <tr><td>|                     |</td></tr>
+  <tr><td>|    [Submit]         |</td></tr>
+  <tr><td>-----------------------</td></tr>
+</table>
 
